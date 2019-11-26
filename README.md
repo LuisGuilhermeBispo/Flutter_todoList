@@ -18,7 +18,7 @@ Se você não possuir o Android Studio **(indicado)** ou o Android SDK instalado
 ## Abrindo o projeto
 
 Após executar todos os passos de instalação do Flutter e o Android Studio 
-(ou outra plataforma que preferir), irá abrir o seu emulador de sua preferência e abrir o diretório no terminal do Windows ou do VS Code e dar um Flutter Run.
+(ou outra plataforma que preferir), irá abrir o seu emulador de sua preferência e abrir o diretório no terminal do Windows ou do VS Code e dar um `Flutter Run`.
 
 Para ajudar caso não tenha entendido, segue a 
 [documentação online](https://flutter.dev/docs), com todos os tutoriais necessários para instalação e de como rodar o projeto.
